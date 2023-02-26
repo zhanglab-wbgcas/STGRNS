@@ -1,5 +1,5 @@
 ># STGRNS
-![]([[https://raw.githubusercontent.com/xiaoyeye/CNNC/master/New%20Bitmap%20Image.bmp](https://github.com/zhanglab-wbgcas/STGRNS/blob/main/Main.jpg)](https://github.com/zhanglab-wbgcas/STGRNS/blob/main/Main.jpg))
+![image](https://github.com/zhanglab-wbgcas/STGRNS/blob/main/Main.jpg)
 
 ># Introduction
 
