@@ -265,7 +265,7 @@ def get_low_express_gene(origin_expression_record, num_cells):
             gene_list.append(gene)
     return gene_list
 
-def loadsplit(gold_networks, Rank_nums, names, speciess, results):
+def loadData(gold_networks, Rank_nums, names, speciess, results):
     name = names
     Rank_num = Rank_nums
     species = speciess
@@ -533,15 +533,13 @@ def loadsplit(gold_networks, Rank_nums, names, speciess, results):
         f.writelines("len(cells)" + str(len(cells)) + "\n")
 
 
-# --------------------------------------------------------------------------------
+
+network = "Non-specific-ChIP-seq-network"
+size = 1500
+dataset = "06hHep"
 speciess = "human"
 results = "STGRNS"
-
-for j in ['Non-specific-ChIP-seq-network', 'STRING-network', 'hESC-ChIP-seq-network']:
-    # for i in ['Non-specific-ChIP-seq-network']:
-    for k in [500, 1000]:
-        for i in ['06hHep', '07hESC']:
-            loadsplit(j, k, i, speciess, results)
+loadData(network, size, dataset, speciess, results)
 
 
 
