@@ -14,12 +14,12 @@ Instructions and examples are provided in the following tutorials.
 - scikit-learn (Compatible with all versions)
 - Pytorch (With Cudatoolkit is recommanded)
 - Numpy > 1.20
+- Scanpy > 1.9.1
 
 
 [//]: # (```)
 
 ># Tutorial
-- [Annotation of 3k PBMCs](https://github.com/yuqcheng/scBalance/blob/main/Tutorial/scBalance%20Tuotrial_Annotation%20of%203k%20PBMCs.ipynb)
-- [Intra-dataset and Inter-dataset annotation](https://github.com/yuqcheng/scBalance/blob/main/Tutorial/Intradataset%26Interdataset_annotation_tutorial.ipynb)
+- [Inferring gene regulatory networks](https://github.com/zhanglab-wbgcas/STGRNS/blob/main/Tutorial.ipynb)
 
 ```
