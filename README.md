@@ -23,3 +23,8 @@ Instructions and examples are provided in the following tutorials.
 - [Inferring gene regulatory networks](https://github.com/zhanglab-wbgcas/STGRNS/blob/main/Tutorial.ipynb)
 
 ```
+
+># Data Availability
+For the GRN reconstruction task, the processed experimental single-cell gene expression datasets are available on Zenodo at  https://doi.org/10.5281/zenodo.3378975.  
+The gene expression and ChIP-Seq data of bone marrow-derived macrophages, dendritic cells, and mESC(1) are available at https://github.com/xiaoyeye/CNNC. 
+
