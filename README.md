@@ -16,6 +16,10 @@ Instructions and examples are provided in the following tutorials.
 - Numpy > 1.20
 - Scanpy > 1.9.1
 
+># Data Availability
+For the GRN reconstruction task, the processed experimental single-cell gene expression datasets are available on Zenodo at  https://doi.org/10.5281/zenodo.3378975.  
+The gene expression and ChIP-Seq data of bone marrow-derived macrophages, dendritic cells, and mESC(1) are available at https://github.com/xiaoyeye/CNNC. 
+
 
 [//]: # (```)
 
@@ -24,7 +28,4 @@ Instructions and examples are provided in the following tutorials.
 
 ```
 
-># Data Availability
-For the GRN reconstruction task, the processed experimental single-cell gene expression datasets are available on Zenodo at  https://doi.org/10.5281/zenodo.3378975.  
-The gene expression and ChIP-Seq data of bone marrow-derived macrophages, dendritic cells, and mESC(1) are available at https://github.com/xiaoyeye/CNNC. 
 
