@@ -26,7 +26,7 @@ The gene expression and ChIP-Seq data of bone marrow-derived macrophages, dendri
 ># Tutorial
 - [Inferring gene regulatory networks](https://github.com/zhanglab-wbgcas/STGRNS/blob/main/Tutorial.ipynb)
 
-```
+
 
 ># Paper Link
 (https://academic.oup.com/bioinformatics/article/39/4/btad165/7099621)
