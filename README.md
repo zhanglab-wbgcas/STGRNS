@@ -1,5 +1,5 @@
 ># STGRNS
-![image]()
+![image](https://github.com/zhanglab-wbgcas/STGRNS/blob/main/Figure%201.jpg)
 
 ># Introduction
 
