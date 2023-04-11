@@ -29,7 +29,7 @@ The gene expression and ChIP-Seq data of bone marrow-derived macrophages, dendri
 
 
 ># Paper Link
-(https://academic.oup.com/bioinformatics/article/39/4/btad165/7099621)
+https://academic.oup.com/bioinformatics/article/39/4/btad165/7099621
 
 
 
